@@ -1,1 +1,6 @@
-hello world
+When you set out to learn anything as complicated as JavaScript,
+ you sign up for some heavy cognitive lifting. If I had to guess, 
+I'd say the whole project of teaching yourself a language burns 
+at least a large garden-cart load of brain glucose. 
+But here's what you may not realize: When you teach yourself, 
+your cognitive load doubles. 
