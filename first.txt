@@ -4,3 +4,4 @@ I'd say the whole project of teaching yourself a language burns
 at least a large garden-cart load of brain glucose. 
 But here's what you may not realize: When you teach yourself, 
 your cognitive load doubles. 
+I started learning javascript when Iwas just eighteen I was 
